@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\MVC1\\SrudentMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{346935E6-8694-4DC4-B630-424E9DD41C21}|SrudentMVC\\SrudentMVC.csproj|c:\\users\\lenovo\\documents\\asp.net\\mvc1\\srudentmvc\\srudentmvc\\views\\students\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{346935E6-8694-4DC4-B630-424E9DD41C21}|SrudentMVC\\SrudentMVC.csproj|solutionrelative:srudentmvc\\views\\students\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{346935E6-8694-4DC4-B630-424E9DD41C21}|SrudentMVC\\SrudentMVC.csproj|c:\\users\\lenovo\\documents\\asp.net\\mvc1\\srudentmvc\\srudentmvc\\views\\students\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{346935E6-8694-4DC4-B630-424E9DD41C21}|SrudentMVC\\SrudentMVC.csproj|solutionrelative:srudentmvc\\views\\students\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{346935E6-8694-4DC4-B630-424E9DD41C21}|SrudentMVC\\SrudentMVC.csproj|c:\\users\\lenovo\\documents\\asp.net\\mvc1\\srudentmvc\\srudentmvc\\views\\students\\getall.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{346935E6-8694-4DC4-B630-424E9DD41C21}|SrudentMVC\\SrudentMVC.csproj|solutionrelative:srudentmvc\\views\\students\\getall.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{346935E6-8694-4DC4-B630-424E9DD41C21}|SrudentMVC\\SrudentMVC.csproj|c:\\users\\lenovo\\documents\\asp.net\\mvc1\\srudentmvc\\srudentmvc\\views\\students\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{346935E6-8694-4DC4-B630-424E9DD41C21}|SrudentMVC\\SrudentMVC.csproj|solutionrelative:srudentmvc\\views\\students\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{346935E6-8694-4DC4-B630-424E9DD41C21}|SrudentMVC\\SrudentMVC.csproj|c:\\users\\lenovo\\documents\\asp.net\\mvc1\\srudentmvc\\srudentmvc\\views\\students\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{346935E6-8694-4DC4-B630-424E9DD41C21}|SrudentMVC\\SrudentMVC.csproj|solutionrelative:srudentmvc\\views\\students\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{346935E6-8694-4DC4-B630-424E9DD41C21}|SrudentMVC\\SrudentMVC.csproj|c:\\users\\lenovo\\documents\\asp.net\\mvc1\\srudentmvc\\srudentmvc\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{346935E6-8694-4DC4-B630-424E9DD41C21}|SrudentMVC\\SrudentMVC.csproj|solutionrelative:srudentmvc\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\MVC1\\SrudentMVC\\SrudentMVC\\Views\\Students\\Update.cshtml",
+              "RelativeDocumentMoniker": "SrudentMVC\\Views\\Students\\Update.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\MVC1\\SrudentMVC\\SrudentMVC\\Views\\Students\\Update.cshtml",
+              "RelativeToolTip": "SrudentMVC\\Views\\Students\\Update.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABgAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-21T15:46:30.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\MVC1\\SrudentMVC\\SrudentMVC\\Views\\Students\\Delete.cshtml",
+              "RelativeDocumentMoniker": "SrudentMVC\\Views\\Students\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\MVC1\\SrudentMVC\\SrudentMVC\\Views\\Students\\Delete.cshtml",
+              "RelativeToolTip": "SrudentMVC\\Views\\Students\\Delete.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABgAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-21T15:46:04.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\MVC1\\SrudentMVC\\SrudentMVC\\Views\\Students\\Create.cshtml",
+              "RelativeDocumentMoniker": "SrudentMVC\\Views\\Students\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\MVC1\\SrudentMVC\\SrudentMVC\\Views\\Students\\Create.cshtml",
+              "RelativeToolTip": "SrudentMVC\\Views\\Students\\Create.cshtml",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAABcAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-21T15:45:35.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "getAll.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\MVC1\\SrudentMVC\\SrudentMVC\\Views\\Students\\getAll.cshtml",
+              "RelativeDocumentMoniker": "SrudentMVC\\Views\\Students\\getAll.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\MVC1\\SrudentMVC\\SrudentMVC\\Views\\Students\\getAll.cshtml",
+              "RelativeToolTip": "SrudentMVC\\Views\\Students\\getAll.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABgAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-21T15:42:40.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\MVC1\\SrudentMVC\\SrudentMVC\\Views\\Students\\Index.cshtml",
+              "RelativeDocumentMoniker": "SrudentMVC\\Views\\Students\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\MVC1\\SrudentMVC\\SrudentMVC\\Views\\Students\\Index.cshtml",
+              "RelativeToolTip": "SrudentMVC\\Views\\Students\\Index.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABgAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-21T15:40:05.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\MVC1\\SrudentMVC\\SrudentMVC\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "SrudentMVC\\Controllers\\StudentsController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\ASP.NET\\MVC1\\SrudentMVC\\SrudentMVC\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "SrudentMVC\\Controllers\\StudentsController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwBcAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T13:05:11.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
